@@ -36,7 +36,7 @@ export const Hero = () => {
       <div className="col-4">
         <img src={imagePath}
           alt={superhero}
-          className="img-thumbnail"
+          className="img-thumbnail animate__animated animate__fadeInLeft"
         ></img>
       </div>
 
